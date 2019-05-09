@@ -10,7 +10,7 @@
 * Source: https://searchengineland.com/google-ads-script-how-to-automatically-apply-bid-modifiers-316017
 * and     https://searchengineland.com/automate-your-in-market-audience-bidding-with-this-google-ads-script-309574
 * Author: Daniel Gilbert
-*
+* Goal:   Optimze modifiers based on past perfomance
 **/
 
 // Use this if you want to exclude some campaigns. Case insensitive.
